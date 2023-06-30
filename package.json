@@ -1,0 +1,23 @@
+{
+  "name": "yncc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.63.6",
+    "typescript": "^5.1.6",
+    "vite": "^4.3.9",
+    "vite-plugin-dts": "1.4.1",
+    "vue": "^3.2.36"
+  },
+  "dependencies": {
+    "@vue/runtime-core": "^3.3.4"
+  }
+}
