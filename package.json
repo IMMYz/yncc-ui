@@ -19,6 +19,7 @@
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-sass": "^5.1.0",
+    "release-it": "^15.11.0",
     "sass": "^1.63.6",
     "sucrase": "^3.32.0",
     "typescript": "^5.1.6",
