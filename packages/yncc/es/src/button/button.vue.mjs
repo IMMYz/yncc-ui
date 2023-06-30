@@ -1,5 +1,5 @@
 import { defineComponent, computed, openBlock, createElementBlock, normalizeClass, unref, renderSlot } from "vue";
-import "./style/index.scss.mjs";
+import "./style/index.css";
 const __default__ = {
   name: "cc-button"
 };

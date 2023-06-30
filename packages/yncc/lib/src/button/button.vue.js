@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperties(exports, { __esModule: { value: true }, [Symbol.toStringTag]: { value: "Module" } });
 const vue = require("vue");
-require("./style/index.scss.js");
+require("./style/index.css");
 const __default__ = {
   name: "cc-button"
 };

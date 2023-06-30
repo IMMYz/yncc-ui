@@ -12,8 +12,8 @@
       "esnext",
       "dom"
     ],
-    "types": [
-      "yncc/lib/src/components"
-    ]
+    // "types": [
+    //   "yncc/lib/src/components"
+    // ]
   }
 }
