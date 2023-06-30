@@ -1,5 +1,5 @@
 {
-  "name": "yncc-ui-test",
+  "name": "yncc",
   "version": "0.0.4",
   "main": "lib/index.js",
   "module": "es/index.mjs",
