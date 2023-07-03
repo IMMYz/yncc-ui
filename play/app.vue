@@ -1,6 +1,7 @@
 <template>
   <!-- <div>启动测试</div> -->
   <cc-button type="primary">测试</cc-button>
+  <cc-icon></cc-icon>
 </template>
 
 <script setup lang="ts">
