@@ -1,6 +1,6 @@
 {
-  "name": "yncc",
-  "version": "0.0.4",
+  "name": "yncc-ui",
+  "version": "0.0.1",
   "main": "lib/index.js",
   "module": "es/index.mjs",
   "files": [
