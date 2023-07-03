@@ -40,7 +40,7 @@ export default {
           items: [
             {
               text: "Button",
-              link: "/components/button",
+              link: "/components/button/",
             }
           ],
         }
